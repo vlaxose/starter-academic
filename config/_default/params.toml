@@ -86,7 +86,7 @@ phone = "+30 2610 910305"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Platani Riou", city = "Patras", region = "Achaia", postcode = "26504", country = "Greece", country_code = "GR"}
+address = {street = "Patras Science Park, Platani Riou", city = "Patras", region = "Achaia", postcode = "26504", country = "Greece", country_code = "GR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -97,7 +97,7 @@ directions = "1st Floor, Room A5"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = [""]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/vlachos_evangelos"
