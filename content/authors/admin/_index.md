@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: PhD in Signal Processing for Wireless Communications
-    institution: University of Patras
+    institution: University of Patras, Greece
     year: 2015
   - course: MEng in Signal Processing and Machine Learning
-    institution: University of Patras
+    institution: University of Patras, Greece
     year: 2009
   - course: BSc in Signal Processing and Wireless Communications
     institution: University of Patras, Greece
