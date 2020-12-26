@@ -31,7 +31,7 @@ education:
   - course: MEng in Signal Processing and Machine Learning
     institution: University of Patras
     year: 2009
-  - course: BSc in Signal Processing for Wireless Communications
+  - course: BSc in Signal Processing and Wireless Communications
     institution: University of Patras, Greece
     year: 2005
 
@@ -67,7 +67,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Evangelos Vlachos
